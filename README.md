@@ -6,5 +6,5 @@ ROOT macros and supporting scripts for the NPS cluster time window (coincidence 
 - macro/	ROOT macros
 - csv/		generated tables (ignored)
 - img/ 		generated plots (ignored)
-- img-git/ 	shared plots
+- fig/ 	shared plots
 - rootfiles/ 	input ROOT files (ignored)

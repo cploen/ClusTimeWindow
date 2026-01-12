@@ -7,8 +7,6 @@ rootfiles #symlink
 #common junk
 
 *.root
-*.png
-*.pdf
 *.swp
 *~
 .DS_Store
