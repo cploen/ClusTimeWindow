@@ -1,0 +1,11 @@
+#ignore outputs and data files
+csv/
+img/
+rootfiles/
+#common junk
+*.root
+*.png
+*.pdf
+*.swp
+*~
+.DS_Store
